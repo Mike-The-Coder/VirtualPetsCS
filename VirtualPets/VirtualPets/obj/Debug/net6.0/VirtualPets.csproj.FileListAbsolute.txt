@@ -1,0 +1,15 @@
+C:\Users\codin\Code\VirtualPets\VirtualPets\bin\Debug\net6.0\VirtualPets.exe
+C:\Users\codin\Code\VirtualPets\VirtualPets\bin\Debug\net6.0\VirtualPets.deps.json
+C:\Users\codin\Code\VirtualPets\VirtualPets\bin\Debug\net6.0\VirtualPets.runtimeconfig.json
+C:\Users\codin\Code\VirtualPets\VirtualPets\bin\Debug\net6.0\VirtualPets.dll
+C:\Users\codin\Code\VirtualPets\VirtualPets\bin\Debug\net6.0\VirtualPets.pdb
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.csproj.AssemblyReference.cache
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.AssemblyInfoInputs.cache
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.AssemblyInfo.cs
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.csproj.CoreCompileInputs.cache
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.dll
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\refint\VirtualPets.dll
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.pdb
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\VirtualPets.genruntimeconfig.cache
+C:\Users\codin\Code\VirtualPets\VirtualPets\obj\Debug\net6.0\ref\VirtualPets.dll
