@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\VirtualPets.csproj": {}
+    "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\VirtualPets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\VirtualPets.csproj": {
+    "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\VirtualPets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
+        "projectUniqueName": "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
         "projectName": "VirtualPets",
-        "projectPath": "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
+        "projectPath": "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
         "packagesPath": "C:\\Users\\codin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\obj\\",
+        "outputPath": "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\codin\\AppData\\Roaming\\NuGet\\NuGet.Config",

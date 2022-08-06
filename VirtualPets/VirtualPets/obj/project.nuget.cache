@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3i/bZw/dtgq1IyEOII1YvCtN3hPiJ1KDucc4ghxRH/G5NCxQpTt2j/QRVnjI2oLdhcsij0mPmJQriv+R2H15VA==",
+  "dgSpecHash": "vpsi+EkWvYhxR/TUECgVuTTRXaM0XprtpmPdLPctaX0x3PllZeJq4RIt+9f0f0YVeVJAiyfoZebDy3IL46APcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\codin\\Code\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
+  "projectFilePath": "C:\\Users\\codin\\Source\\Repos\\VirtualPetsCS\\VirtualPets\\VirtualPets\\VirtualPets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
